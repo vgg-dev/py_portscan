@@ -1,5 +1,4 @@
-<img src="py_scanner_icon.png" alt="Port Scanner" width="100" height="100"/>
-![Port Scanner](py_scanner_icon.png)
+<img src="py_scanner_icon.png" alt="Port Scanner" width="200" height="200"/>
 
 # py_portscan
 # Port Scanner
