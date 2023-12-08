@@ -1,4 +1,4 @@
-![Port Scanner](py_portscanner_icon.png)
+![Port Scanner](py_scanner_icon.png)
 
 # py_portscan
 # Port Scanner
