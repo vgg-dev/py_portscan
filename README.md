@@ -1,8 +1,9 @@
 <p align="center">
 <img src="py_scanner_icon.png" alt="Port Scanner" width="200" height="200"/>
+</p>
 
 # py_portscan
-</p>
+
 # Port Scanner
 
 This Python script is a simple port scanner that checks for open ports within a specified range on a given target (IP address or hostname).
