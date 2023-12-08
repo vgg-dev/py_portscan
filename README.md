@@ -41,3 +41,7 @@ Scan ports 1 to 100 on `example.com`:
 
 ```bash
 python py_portscan.py example.com 1 100
+
+### Notes
+
+- **Be Cautious:** It's important to use this tool responsibly and ethically. Unauthorized port scanning may violate network policies or laws.
